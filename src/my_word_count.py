@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# Author: Jingyi Chen
+# Email: jc2834@cornell.edu
 
 import sys, glob, os, string
 wordCount = {}

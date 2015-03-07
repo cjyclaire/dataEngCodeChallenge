@@ -11,7 +11,6 @@ def my_word_count(filepath,outputpath):
 			line = l.strip('\n')
 			if line:
 				words = map(lambda x:x.lower().translate(string.maketrans("",""), string.punctuation),line.split())
-				pass
 				for word in words:
 					if word not in wordCount:
 						wordCount[word] = 1

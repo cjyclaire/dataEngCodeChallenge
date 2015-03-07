@@ -1,5 +1,5 @@
 #README
->* Author: **Jingyi Chen** 
+>* Author: **Jingyi Chen**
 >* Email: **jc2834@cornell.edu**
 
 >**Info.**
@@ -10,8 +10,4 @@
 * **input** file directory: wc_input
 * check **output** at directory: wc_output
 
-* source file
-	* **Word Count**
-	```my_word_count.py```
-	* **Running Median**
-	```my_running_median.py```
+* source file: ```my_word_count.py```, ```my_running_median.py```
